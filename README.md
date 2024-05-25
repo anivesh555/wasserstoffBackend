@@ -1,6 +1,6 @@
-# Project Name
+# Image Anotation 
 
-Brief description of your project.
+Upload image to generate anotaions , Admin can approve anotations , download data as pdf/csv
 
 ## Installation
 
